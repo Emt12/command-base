@@ -1,7 +1,7 @@
 # Command Base Project
 
 ## Overview
-The Command Base project is designed to demonstrate the use of a scheduler to manage tasks in an embedded environment. It utilizes the Arduino(soon ESP-IDF) framework and is built for compatibility with ESP32 microcontrollers.
+The Command Base project is designed to demonstrate the use of a scheduler to manage tasks in an embedded environment. It utilizes the Arduino(soon ESP-IDF too) framework and is built for compatibility with ESP32 microcontrollers.
 
 ## Features
 - Initializes serial communication for debugging and monitoring.
@@ -11,7 +11,7 @@ The Command Base project is designed to demonstrate the use of a scheduler to ma
 ## Future Plans
 - Making it an additional library.
 - Add more WPILIB like functionalities.
-- Port it into ESP-DIF framework and getting rid of Arduino framework.
+- Port it into ESP-DIF framework.
 
 ## File Structure
 ```
